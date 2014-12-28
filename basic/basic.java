@@ -1,3 +1,5 @@
+// The main class for android application
+
 package com.shiza.myfirstapp;
 
 import android.support.v7.app.ActionBarActivity;
@@ -5,8 +7,11 @@ import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuItem;
 
+// Import of these all files is required .
+
 
 public class MainActivity extends ActionBarActivity {
+    // We must have a class main activity in any Android application.
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -39,4 +44,3 @@ public class MainActivity extends ActionBarActivity {
     }
 }
 
-We must have a class main activity in any Android application.

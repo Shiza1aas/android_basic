@@ -1,0 +1,11 @@
+error handling
+
+Cannot launch AVD in emulator.
+Output:
+PANIC: Missing emulator engine program for 'x86' CPUS.
+
+
+Treatment:
+
+Install all the components of the app properly.
+	Open SDK manager and install all the components again.
